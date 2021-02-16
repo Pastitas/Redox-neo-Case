@@ -3,10 +3,12 @@ Neodox is just a dumb name for a case for the redox keyboard (both wireless and 
 I also wanted to save space by using the original pcb mounting holes.
 
 ## Pics
-![redox_w](media/IMG_20200729_151927.jpg)
-![redox_w](media/redox_rev1.0.jpg)
-![redox_w](media/redox_w.png)
 
+![redox_w](media/IMG_20200729_151927.jpg)
+
+![redox_w](media/redox_rev1.0.jpg)
+
+![redox_w](media/redox_w.png)
 
 ## Usage guide
 There is a calibration tester file (inside the switch_plate_tester folder) you can print with the following tolerances for the switches:
