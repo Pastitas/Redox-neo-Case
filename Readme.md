@@ -1,5 +1,5 @@
 # Neodox Redox keyboard Case
-Neodox is just a dumb name for a case for the redox keyboard based on looks and getting 'thicness' down as much as possible,  while still being 3d printable.
+Neodox is just a dumb name for a case for the redox keyboard (both wireless and wired versions) based on looks and getting 'thicness' down as much as possible,  while still being 3d printable.
 I also wanted to save space by using the original pcb mounting holes.
 
 ## Pics
