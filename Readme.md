@@ -23,7 +23,13 @@ If that's not enough for your printer or want to make any changes just fork this
 
 There are also testers in step format form the holes of the microcontroller and trs jacks (so you can test fit before printing and wasting plastic and time) and the alignment of the switches in the redox_w
 
-## Wrist Rest
+## Screws
+
+M3x10 screws x8 should work well without inserts.
+
+2.5 inserts also work, but you might have to drill a bit of the holes for them to fit in (drill in reverse so you dont overdrill)
+
+ ## Wrist Rest
 by user [idaho777](https://github.com/idaho777)
 
 I've created a set of wrist rests that maintain both dimensions and style of the original case.  These have a curved slope from the top to the bottom since that's the feeling i'm used to.
