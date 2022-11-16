@@ -12,10 +12,10 @@ I also wanted to save space by using the original pcb mounting holes.
 
 ## Usage guide
 There is a calibration tester file (inside the switch_plate_tester folder) you can print with the following tolerances for the switches:
-* 0.08 mm
-* 0.12 mm
-* 0.16 mm
-* 0.20 mm
+1 0.20 mm
+2 0.16 mm
+3 0.12 mm
+4 0.08 mm
 
 After testing your switches there you can then choose any tolerance on the stls, it's the last number in the name of the top parts
 
