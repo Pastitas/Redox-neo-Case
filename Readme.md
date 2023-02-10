@@ -1,6 +1,8 @@
-# Neodox Redox keyboard Case
-Neodox is just a dumb name for a case for the redox keyboard (both wireless and wired versions) based on looks and getting 'thicness' down as much as possible,  while still being 3d printable.
+# Redo-neo keyboard Case
+Redox-neo is just a case for the redox keyboard (both wireless and wired versions) based on looks and getting 'thicness' down as much as possible,  while still being 3d printable.
 I also wanted to save space by using the original pcb mounting holes.
+note that this should be compatible with wireless rev2 since the hole that
+changes is non-essential for the case and the other 3 will work just fine
 
 ## Pics
 
